@@ -207,10 +207,10 @@ export default function Index() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 flex items-center justify-between h-16">
           <div className="flex items-center gap-2">
             <div className="w-8 h-8 bg-primary rounded-sm flex items-center justify-center">
-              <span className="font-oswald font-bold text-primary-foreground text-xs">JDM</span>
+              <span className="font-oswald font-bold text-primary-foreground text-xs">KC</span>
             </div>
             <span className="font-oswald font-semibold text-lg tracking-wide">
-              JDM<span className="text-primary"> IMPORT</span>
+              KENT<span className="text-primary"> CAR</span>
             </span>
           </div>
 
@@ -643,12 +643,12 @@ export default function Index() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2">
             <div className="w-7 h-7 bg-primary rounded-sm flex items-center justify-center">
-              <span className="font-oswald font-bold text-primary-foreground text-xs">JDM</span>
+              <span className="font-oswald font-bold text-primary-foreground text-xs">KC</span>
             </div>
-            <span className="font-oswald font-semibold">JDM IMPORT</span>
+            <span className="font-oswald font-semibold">KENT <span className="text-primary">CAR</span></span>
           </div>
           <div className="text-muted-foreground text-xs text-center">
-            © 2026 JDM Import. Все права защищены.
+            © 2026 Kent Car. Все права защищены.
           </div>
           <div className="flex flex-wrap gap-4 justify-center">
             {NAV_LINKS.map((link) => (
